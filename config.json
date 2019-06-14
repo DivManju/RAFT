@@ -1,0 +1,6 @@
+{  
+	"_comment": "Server ID and port mappings for socket creation",
+	"AddressBook":[50001, 50002, 50003, 50004, 50005],
+	"running":[1,2,3,4,5],
+	"initial_state":100
+}
